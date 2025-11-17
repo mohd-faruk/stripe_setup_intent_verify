@@ -1,7 +1,6 @@
-# Accept a Payment
+# Stripe Payment Method Sample
 
-Build a simple checkout form to collect payment details. Included are some basic
-build and run scripts you can use to start up the application.
+A minimal PHP sample that demonstrates collecting a card payment method using Stripe Elements and confirming a setupIntent. Includes a simple checkout form and instructions to run the app locally.
 
 ## Running the sample
 
