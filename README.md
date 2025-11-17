@@ -4,7 +4,7 @@ A minimal PHP sample that demonstrates collecting a card payment method using St
 
 ## Running the sample
 
-1. Update clientSecret in public/create.php file
+1. Update clientSecret in public/create.php file and publishable API key in the Stripe object at public/checkout.js file
 
 2. Run the server
 
